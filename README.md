@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Data science projects right from scratch.
+1)Problem of Logistic Regression
